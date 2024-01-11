@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/nodejs
+module github.com/naveeninitializ/mynodejs
 
 go 1.16
 

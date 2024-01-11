@@ -1,13 +1,13 @@
 api = "0.7"
 
 [buildpack]
-  homepage = "https://github.com/paketo-buildpacks/nodejs"
-  id = "paketo-buildpacks/nodejs"
+  homepage = "https://github.com/naveeninitializ/mynodejs"
+  id = "nv/nodejs"
   name = "Paketo Buildpack for Node.js"
 
   [[buildpack.licenses]]
     type = "Apache-2.0"
-    uri = "https://github.com/paketo-buildpacks/nodejs/blob/main/LICENSE"
+    uri = "https://github.com/naveeninitializ/mynodejs/blob/main/LICENSE"
 
 [metadata]
   include-files = ["buildpack.toml"]
